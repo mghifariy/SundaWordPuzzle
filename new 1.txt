@@ -1,0 +1,18 @@
+double startX = Canvas.GetLeft(start) + (start.Width / 2);
+double startY = Canvas.GetTop(start) + (start.Height / 2);
+double start2X = Canvas.GetLeft(start2) + (start2.Width / 2);
+double start2Y = Canvas.GetTop(start2) + (start2.Height / 2);
+
+byte state10 = 0;
+
+bangkong.Visibility = Visibility.Hidden;
+bangkong2.Visibility = Visibility.Hidden;
+
+hitvectorInteract(ref ucingstate, hitVector_ucing, hitVector2_ucing, ucing, ucing2);
+
+
+if (invincible == 0)
+hitvectorInteract(hitVector_bangkong, hitVector2_cacing, bangkong, cacing2);
+hitvectorInteract(hitVector_bangkong, hitVector2_manuk, bangkong, manuk2);
+hitvectorInteract(hitVector_bangkong, hitVector2_sapi, bangkong, sapi2);
+hitvectorInteract(hitVector_bangkong, hitVector2_ucing, bangkong, ucing2);

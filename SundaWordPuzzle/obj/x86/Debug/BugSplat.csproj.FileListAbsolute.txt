@@ -1,0 +1,292 @@
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\AppData\Local\Temporary Projects\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\01 Bug Drawing - Copy\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\02 Bug Positioning - Copy\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\03 Moving Bug\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\04 Raining Bug\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Documents\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\05 Augmented Reality Bugs - Copy - Copy\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\06 Bugs and Mallet - Copy\BugSplat\bin\Debug\ding.wav
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\bin\Debug\ding.wav
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\bin\Debug\ding.wav
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\07 Bugsplat game - Copy (2)\BugSplat\bin\Debug\BugsplatBackground.png
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\Kinect Workspace\Chapter 10 Augmented Reality with Kinect\Demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\bin\Debug\BugsplatBackground.png
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\bin\Debug\ding.wav
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\bin\Debug\BugsplatBackground.png
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\bin\Debug\ding.wav
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\TechDays NL\Kinect Mayhem\demos\10 Bugsplat game with masking\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 04 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 04 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\bin\Debug\BugsplatBackground.png
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\bin\Debug\ding.wav
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Documents\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Rob\Desktop\2011-2012 Year\Presentations\Kinect\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\bin\Debug\BugsplatBackground.png
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\bin\Debug\ding.wav
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.csprojResolveAssemblyReference.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking\BugSplat\obj\x86\Debug\BugSplat.csproj.GenerateResource.Cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\BugSplat.csprojResolveAssemblyReference.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\obj\x86\Debug\BugSplat.csproj.GenerateResource.Cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\bin\Debug\BugsplatBackground.png
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\bin\Debug\ding.wav
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\Demo 05 Bugsplat with masking - Copy\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\bin\Debug\BugsplatBackground.png
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\bin\Debug\ding.wav
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\BugSplat.csprojResolveAssemblyReference.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle\BugSplat\obj\x86\Debug\BugSplat.csproj.GenerateResource.Cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\BugSplat.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\bin\Debug\BugsplatBackground.png
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\bin\Debug\ding.wav
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\bin\Debug\BugSplat.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\bin\Debug\BugSplat.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\BugSplat.csprojResolveAssemblyReference.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\MainWindow.baml
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\App.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\BugSplat_Content.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\BugSplat_MarkupCompile.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\BugSplat.g.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\BugSplat.Properties.Resources.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 2\BugSplat\obj\x86\Debug\BugSplat.csproj.GenerateResource.Cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\BugSplat\obj\x86\Debug\BugSplat.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\BugSplat\obj\x86\Debug\BugSplat.pdb

@@ -1,0 +1,399 @@
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\BugSplat\bin\Debug\SundaWordPuzzle.exe.config
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+C:\Users\Drig\Documents\Visual Studio 2013\Projects\Kinect Demos\Demos\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+D:\Bahan Ajar 2015\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+C:\Users\erick_000\Google Drive\bahan kuliah\IMK\Tugas HCI 3\HCI 2012\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\IMK\imk\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+E:\IMK\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+C:\Users\Ghifari\Desktop\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+C:\Users\Ghifari\Downloads\Kelompok 5 - Sunda Word Puzzle\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+D:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+D:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+D:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+E:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+C:\Users\Ghifari\Desktop\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+G:\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ding.wav
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+D:\SIM\sunda word puzzle 3\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ding.wav
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+D:\Multi\Kuliah\Semester 6\Interaksi Manusia dan Komputer\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\BugsplatBackground.png
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ding.wav
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+C:\Users\Ghifari\Desktop\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+D:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.pdb
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.Common.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Coding4Fun.Kinect.KinectService.WpfClient.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Expression.Drawing.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\Microsoft.Kinect.xml
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csprojResolveAssemblyReference.cache
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\MainWindow.baml
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\MainWindow.g.cs
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\App.g.cs
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_Content.g.cs
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle_MarkupCompile.cache
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.g.resources
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.Properties.Resources.resources
+H:\sunda word puzzle 3-2\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.csproj.GenerateResource.Cache
+E:\HCI - Sunda Word Puzzle\SundaWordPuzzle\SundaWordPuzzle\bin\Debug\SundaWordPuzzle.exe.config
+E:\HCI - Sunda Word Puzzle\SundaWordPuzzle\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.exe
+E:\HCI - Sunda Word Puzzle\SundaWordPuzzle\SundaWordPuzzle\obj\x86\Debug\SundaWordPuzzle.pdb
